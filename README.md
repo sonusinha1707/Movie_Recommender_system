@@ -37,15 +37,6 @@ This project is a **content-based movie recommender system** built using **Pytho
 
 ---
 
-## 📸 Demo
-
-Here’s how the app looks:
-
-> *(Add a screenshot of your app here)*  
-> ![Demo Screenshot](https://image.tmdb.org/t/p/w500/your_sample_poster.jpg)
-
----
-
 ## 🛠️ Installation & Usage
 
 ### ✅ Prerequisites
