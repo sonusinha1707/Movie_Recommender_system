@@ -1,6 +1,8 @@
 
 # 🎬 AI-Based Movie Recommender System
 
+![banner](https://github.com/sonusinha1707/Movie_Recommender_system/blob/main/Movie_Recommender_system.png)
+
 This project is a **content-based movie recommender system** built using **Python**, **Pandas**, **Scikit-learn**, and **Streamlit**. It suggests similar movies based on the one you choose from a list, using a similarity matrix and movie metadata. The system also fetches and displays movie posters using the **TMDb API**.
 
 ---
